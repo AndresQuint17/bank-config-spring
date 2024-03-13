@@ -1,0 +1,11 @@
+build:
+  version: "v7.1"
+
+contact:
+  message: "Bank system - Loans API"
+  details:
+    name: "Jhon Gomez - Product Owner"
+    email: "jhongomez@gmail.com"
+  phone-numbers:
+    - "(57) 310-213-3657"
+    - "(57) 305-869-6200"
