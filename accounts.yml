@@ -1,0 +1,11 @@
+build:
+  version: "v3.0"
+
+contact:
+  message: "Bank system - Accounts API"
+  details:
+    name: "Andrés David Quintero - Developer"
+    email: "andres-quint@hotmail.com"
+  phone-numbers:
+    - "(57) 310-213-3657"
+    - "(57) 305-869-6200"
