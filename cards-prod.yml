@@ -1,0 +1,11 @@
+build:
+  version: "v3.6"
+
+contact:
+  message: "Bank system - Cards API"
+  details:
+    name: "Maria Caicedo - Product Owner"
+    email: "mariacaicedo@gmail.com"
+  phone-numbers:
+    - "(57) 310-213-3657"
+    - "(57) 305-869-6200"
