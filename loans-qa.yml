@@ -2,7 +2,7 @@ build:
   version: "v7.2"
 
 contact:
-  message: "Bank system - Loans API"
+  message: "Bank system - Loans API - RabbitMQ"
   details:
     name: "Arledy Rodriguez - QA"
     email: "arledyrodriguez@gmail.com"
