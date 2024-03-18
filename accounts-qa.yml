@@ -2,7 +2,7 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Bank system - Accounts API"
+  message: "Sistema Bancario - Accounts API"
   details:
     name: "Edward Camilo - QA"
     email: "edwardcamilo.q@gmail.com"
