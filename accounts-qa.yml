@@ -2,7 +2,7 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Sistema Bancario - Accounts API - Entorno QA"
+  message: "Sistema Bancario - Accounts API - Entorno QA - RabbitMQ"
   details:
     name: "Edward Camilo - QA"
     email: "edwardcamilo.q@gmail.com"
