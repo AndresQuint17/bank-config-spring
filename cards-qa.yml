@@ -2,7 +2,7 @@ build:
   version: "v3.8"
 
 contact:
-  message: "Bank system - Cards API"
+  message: "Bank system - Cards API - RabbitMQ"
   details:
     name: "Luis Quintero - QA"
     email: "luisquintero@gmail.com"
